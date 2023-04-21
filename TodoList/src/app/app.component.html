@@ -1,0 +1,2 @@
+<create-new-todo class="create__todo_new" (onChangeName)="createNewTodo($event)"></create-new-todo>
+<new-todo class="todo_new" *ngFor="let todo of TODOS" [name]="todo.name"></new-todo>
