@@ -1,0 +1,16 @@
+.create__todo_new {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.todo_new {
+    width: 80%;
+    margin-bottom: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #0075ff;
+}

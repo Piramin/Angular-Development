@@ -1,11 +1,11 @@
 {
-  "name": "TodoApp",
+  "name": "TodoList",
   "version": "1.0.0",
   "description": "Todo list application",
   "author": "Polubatonov Kirill",
   "scripts": {
     "ng": "ng",
-    "start": "ng start",
+    "start": "ng serve",
     "build": "ng build"
   },
   "dependencies": {
